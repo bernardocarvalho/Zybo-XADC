@@ -7,7 +7,7 @@
 // Design Name: Cmod A7 Xadc reference project 
 // Module Name: XADC
 // Target Devices: Digilent Cmod A7 15t rev. B
-// Tool Versions: Vivado 2015.4
+// Tool Versions: Vivado 2021.1
 // Description: Demo that will take input from a button to decide which xadc channel to drive a pwm'd led
 // Dependencies: 
 // 
